@@ -125,3 +125,24 @@ input[type='submit'] {
   font-size: 32px;
   line-height: 120%;
 }
+
+
+.mission {
+  text-align: center;
+  color: #ffffff;
+  background: url('../public/images/mission.png') no-repeat;
+  background-color: #CB0F41;
+  padding: 140px 80px;
+  margin-bottom: 100px;
+}
+
+.mission__title {
+  font-size: 56px;
+  line-height: 100%;
+  margin-bottom: 40px;
+}
+
+.mission__text {
+  font-size: 32px;
+  line-height: 150%;
+}
